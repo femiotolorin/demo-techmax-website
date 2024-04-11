@@ -1,4 +1,4 @@
-[alt text](Reference+Architecture.jpg)
+[alt text](/Reference+Architecture.jpg)
 
 
 # demo-techmax-website
